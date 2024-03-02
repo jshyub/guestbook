@@ -1,0 +1,2 @@
+rootProject.name = 'guestbook'
+include 'base-entity-module'
